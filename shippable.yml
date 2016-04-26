@@ -19,3 +19,4 @@ rvm:
 build:
   ci:
     - ruby -v
+    - sleep 5m
